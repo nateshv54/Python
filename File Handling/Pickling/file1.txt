@@ -1,0 +1,1 @@
+{"pid": 1001, "pname": "Mobile1", "price": 24000, "company": "Samsung", "Product_status": true, "Product_is_there": null}
