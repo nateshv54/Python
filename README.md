@@ -1,3 +1,3 @@
 # Python
-Basic
+Basics
 
